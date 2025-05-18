@@ -5,7 +5,7 @@ const Greet = () => {
   return (
     <View>
       <Text>Greet</Text>
-      <Button title='Learn More' color='green' />
+      <Button title='Learn More' color='red' />
     </View>
   )
 }
